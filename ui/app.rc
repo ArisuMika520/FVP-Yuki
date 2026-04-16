@@ -1,0 +1,7 @@
+// Application resources for FVP-Yuki.exe
+// IDI_ICON1 is the icon Windows uses for the executable and the form.
+IDI_ICON1 ICON "..\\static\\icon.ico"
+
+// Embedded background artwork, loaded via FindResource / LoadResource.
+// Integer resource id 201 is referenced from MainForm.h.
+201 RCDATA "..\\static\\bg.png"

@@ -1,0 +1,30 @@
+# 构建产物
+build/
+[Bb]in/
+[Oo]bj/
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.metagen
+*.tlog
+*.log
+
+# Visual Studio 用户文件
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj.user
+
+# 本地验证 / 测试数据（包含游戏解包产物，体积巨大且涉及版权）
+validation/
+unpack/
+patch_build/
+output.hcb
+
+# 临时 / 系统
+Thumbs.db
+desktop.ini
+*.swp

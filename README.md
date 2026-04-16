@@ -1,6 +1,12 @@
 # FVP-Yuki ♡
 
+<div align="center">
+  <img src="static/bg.png" width="400" alt="FVP-Yuki Background" />
+</div>
+
 > A graphical unpack / repack / patch tool for games built on the **FVP engine**.
+
+> Shiraha Yuki is so cute! ♡
 
 **[中文文档 →](README.zh-CN.md)**
 

@@ -1,6 +1,12 @@
 # FVP-Yuki ♡ 解封包工具
 
+<div align="center">
+  <img src="static/bg.png" width="400" alt="FVP-Yuki Background" />
+</div>
+
 > 面向 **FVP引擎** 的图形化解包 / 封包 / 打补丁工具。
+
+> 白羽 幸(Shiraha Yuki) 姐姐可爱捏
 
 **[English →](README.md)**
 
